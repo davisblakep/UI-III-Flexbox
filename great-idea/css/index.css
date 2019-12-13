@@ -300,8 +300,8 @@ footer {
 }
 
 .bullet {
-box-sizing: border-box;
-padding-left: 7%;
-padding-top: 3%;
+	box-sizing: border-box;
+	padding-left: 7%;
+	padding-top: 3%;
 }
 
