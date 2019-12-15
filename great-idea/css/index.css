@@ -91,7 +91,7 @@ h1 {
 	justify-content: space-around;
 	align-items: center;
 	margin-bottom: 8%;
-	margin-top: 2%;
+	margin-top: 10%;
 }
 
 
@@ -201,7 +201,11 @@ footer {
 .servicesNavClass {
 	display: flex;
 	justify-content: space-between;
-	padding: 3%;
+	padding: 2%;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	background-color: white;
 }
 
 .servicesNavLinksClass {
@@ -210,6 +214,8 @@ footer {
 	width: 60%;
 	padding: 1%;
 	align-content: center;	
+	margin-left: 1%;
+	margin-right: 1%;
 }
 
 .servicesNavLinksClass a {
@@ -220,6 +226,7 @@ footer {
 
 .services-header-img {
 	margin: 4%;
+	margin-top: 8%;
 }
 
 .servicesHeaderClass {
